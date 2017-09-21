@@ -1,0 +1,7 @@
+*.textile
+*.ico
+images/
+jquery.slides.coffee
+jquery.slides.js
+jquery.slides.min.js
+template.html
